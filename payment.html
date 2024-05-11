@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 400px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="number"],
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Payment Details</h1>
+        <form action="#" method="post">
+            <div class="form-group">
+                <label for="card-number">Card Number:</label>
+                <input type="text" id="card-number" name="card-number" placeholder="1234 5678 9012 3456" required>
+            </div>
+            <div class="form-group">
+                <label for="expiry">Expiry Date:</label>
+                <input type="text" id="expiry" name="expiry" placeholder="MM/YY" required>
+            </div>
+            <div class="form-group">
+                <label for="cvv">CVV:</label>
+                <input type="number" id="cvv" name="cvv" placeholder="123" required>
+            </div>
+            <div class="form-group">
+                <label for="card-holder">Card Holder Name:</label>
+                <input type="text" id="card-holder" name="card-holder" placeholder="John Doe" required>
+            </div>
+            <div class="form-group">
+                <label for="country">Country:</label>
+                <select id="country" name="country" required>
+                    <option value="">Select Country</option>
+                    <option value="US">United States</option>
+                    <option value="UK">United Kingdom</option>
+                    <option value="CA">Canada</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Pay Now">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

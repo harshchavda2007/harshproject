@@ -1,0 +1,1388 @@
+body{
+  margin: 0;
+  line-height: normal;
+}
+.all-product-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #0360d9 8.85%, rgba(27, 155, 226, 0));
+  width: 1728px;
+  height: 226px;
+}
+.home-all,
+.items-found-for {
+  position: absolute;
+  top: 169px;
+  left: 163px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #918c8c;
+  display: inline-block;
+  width: 225px;
+  height: 35px;
+}
+.items-found-for {
+  top: 239px;
+  left: 406px;
+  color: #a5a1a1;
+  width: 397px;
+}
+.blank-line {
+  margin: 0;
+}
+.category {
+  position: absolute;
+  top: 242px;
+  left: 165px;
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Inter;
+  color: #727070;
+  display: inline-block;
+  width: 222px;
+  height: 55px;
+}
+.all-product-inner,
+.all-product-item {
+  position: absolute;
+  top: 202.5px;
+  left: 165.5px;
+  border-top: 1px solid #c7c3c3;
+  box-sizing: border-box;
+  width: 1341px;
+  height: 1px;
+}
+.all-product-inner {
+  top: 274.5px;
+  left: 405.5px;
+  border-top: 1px solid #beb9b9;
+  width: 1102px;
+}
+.sort-by {
+  position: absolute;
+  top: 236px;
+  left: 1138px;
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Inter;
+  color: #131212;
+  display: inline-block;
+  width: 83px;
+  height: 15px;
+}
+.all-product-child1 {
+  position: absolute;
+  top: 233px;
+  left: 1224px;
+  border-radius: 10px;
+  background-color: rgba(217, 217, 217, 0);
+  border: 1px solid #cbc5c5;
+  box-sizing: border-box;
+  width: 282px;
+  height: 25px;
+}
+.best-vitamin-d {
+  position: absolute;
+  top: 238px;
+  left: 1240px;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: Inter;
+  color: #5d5959;
+  display: inline-block;
+  width: 136px;
+  height: 17px;
+}
+.icon-arrow-down {
+  position: absolute;
+  height: 0.81%;
+  width: 0.98%;
+  top: 21.58%;
+  right: 13.95%;
+  bottom: 77.61%;
+  left: 85.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.brands,
+.location {
+  position: absolute;
+  top: 567px;
+  left: 166px;
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Inter;
+  display: inline-block;
+  width: 74px;
+  height: 34px;
+}
+.location {
+  top: 723px;
+  width: 92px;
+}
+.all-product-child2,
+.all-product-child3,
+.all-product-child4 {
+  position: absolute;
+  top: 543.5px;
+  left: 167.5px;
+  border-top: 1px solid #afa6a6;
+  box-sizing: border-box;
+  width: 195px;
+  height: 1px;
+}
+.all-product-child3,
+.all-product-child4 {
+  top: 687.5px;
+  left: 165.5px;
+}
+.all-product-child4 {
+  top: 855.5px;
+}
+.all-product-child10,
+.all-product-child11,
+.all-product-child5,
+.all-product-child6,
+.all-product-child7,
+.all-product-child8,
+.all-product-child9 {
+  position: absolute;
+  top: 609px;
+  left: 167px;
+  border-radius: 3px;
+  background-color: rgba(217, 217, 217, 0);
+  border: 1px solid #8e8585;
+  box-sizing: border-box;
+  width: 14px;
+  height: 14px;
+}
+.all-product-child10,
+.all-product-child11,
+.all-product-child6,
+.all-product-child7,
+.all-product-child8,
+.all-product-child9 {
+  top: 762px;
+}
+.all-product-child10,
+.all-product-child11,
+.all-product-child7,
+.all-product-child8,
+.all-product-child9 {
+  top: 314.3px;
+  left: 166px;
+}
+.all-product-child10,
+.all-product-child11,
+.all-product-child8,
+.all-product-child9 {
+  top: 640px;
+  left: 167px;
+}
+.all-product-child10,
+.all-product-child11,
+.all-product-child9 {
+  top: 793px;
+}
+.all-product-child10,
+.all-product-child11 {
+  top: 345.3px;
+  left: 166px;
+}
+.all-product-child11 {
+  top: 376px;
+}
+.advil,
+.ahmdabad,
+.top-products {
+  position: absolute;
+  font-family: Inter;
+  display: inline-block;
+  height: 14px;
+}
+.advil {
+  top: 608px;
+  left: 193px;
+  font-weight: 300;
+  color: #6c6b6b;
+  width: 59px;
+}
+.ahmdabad,
+.top-products {
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.ahmdabad {
+  top: 760.7px;
+  left: 193.1px;
+  font-weight: 300;
+  color: #6c6b6b;
+  width: 81.5px;
+}
+.top-products {
+  top: 313px;
+  left: 192.1px;
+  font-size: 20px;
+  color: #727070;
+  width: 177.5px;
+}
+.zydus {
+  top: 639px;
+  left: 193px;
+  color: #6c6b6b;
+  width: 59px;
+  height: 14px;
+}
+.location1,
+.surat,
+.zydus {
+  position: absolute;
+  font-weight: 300;
+  font-family: Inter;
+  display: inline-block;
+}
+.surat {
+  top: 792px;
+  left: 193px;
+  color: #6c6b6b;
+  width: 59px;
+  height: 14px;
+}
+.location1 {
+  top: 913px;
+  left: 169px;
+  font-size: 20px;
+  width: 92px;
+  height: 34px;
+}
+.all-product-child12,
+.all-product-child13 {
+  position: absolute;
+  top: 952px;
+  left: 170px;
+  border-radius: 3px;
+  background-color: rgba(217, 217, 217, 0);
+  border: 1px solid #8e8585;
+  box-sizing: border-box;
+  width: 14px;
+  height: 14px;
+}
+.all-product-child13 {
+  top: 983px;
+}
+.ahmdabad1 {
+  top: 950.7px;
+  left: 196.1px;
+  font-weight: 300;
+  color: #6c6b6b;
+  width: 81.5px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.ahmdabad1,
+.elderly-care1,
+.skin-care1,
+.surat1 {
+  position: absolute;
+  font-family: Inter;
+  display: inline-block;
+  height: 14px;
+}
+.surat1 {
+  top: 982px;
+  left: 196px;
+  font-weight: 300;
+  color: #6c6b6b;
+  width: 59px;
+}
+.elderly-care1,
+.skin-care1 {
+  top: 344px;
+  left: 192px;
+  font-size: 20px;
+  color: #727070;
+  width: 122px;
+}
+.elderly-care1 {
+  top: 375px;
+}
+.all-product-child14,
+.all-product-child15,
+.all-product-child16 {
+  position: absolute;
+  top: 409.3px;
+  left: 166px;
+  border-radius: 3px;
+  background-color: rgba(217, 217, 217, 0);
+  border: 1px solid #8e8585;
+  box-sizing: border-box;
+  width: 14px;
+  height: 14px;
+}
+.all-product-child15,
+.all-product-child16 {
+  top: 440.3px;
+}
+.all-product-child16 {
+  top: 471px;
+}
+.ayurvedic1,
+.covid-care1,
+.diabetic-care1 {
+  position: absolute;
+  font-size: 20px;
+  font-family: Inter;
+  color: #727070;
+  display: inline-block;
+  height: 14px;
+}
+.ayurvedic1 {
+  top: 408px;
+  left: 192.3px;
+  width: 167.7px;
+  transform: rotate(0.3deg);
+  transform-origin: 0 0;
+}
+.covid-care1,
+.diabetic-care1 {
+  top: 439px;
+  left: 192px;
+  width: 122px;
+}
+.diabetic-care1 {
+  top: 470px;
+  width: 152px;
+}
+.all-product-child17 {
+  position: absolute;
+  top: 67px;
+  left: 51px;
+  border-radius: 40px;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 72px;
+  height: 43px;
+  cursor: pointer;
+}
+.arrow-icon {
+  position: absolute;
+  top: 87px;
+  left: 71px;
+  width: 34px;
+  height: 0;
+  object-fit: contain;
+}
+.all-product-child18,
+.all-product-child19,
+.all-product-child20,
+.all-product-child21,
+.all-product-child22,
+.all-product-child23 {
+  position: absolute;
+  left: 406px;
+  background-color: #f8f5f5;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 168px;
+  height: 290px;
+}
+.all-product-child18 {
+  top: 311px;
+  cursor: pointer;
+}
+.all-product-child19,
+.all-product-child20,
+.all-product-child21,
+.all-product-child22,
+.all-product-child23 {
+  top: 631px;
+}
+.all-product-child20,
+.all-product-child21,
+.all-product-child22,
+.all-product-child23 {
+  top: 311px;
+  left: 618px;
+}
+.all-product-child21,
+.all-product-child22,
+.all-product-child23 {
+  top: 631px;
+}
+.all-product-child22,
+.all-product-child23 {
+  top: 311px;
+  left: 837px;
+}
+.all-product-child23 {
+  top: 631px;
+}
+.all-product-child24,
+.all-product-child25,
+.all-product-child26,
+.all-product-child27,
+.all-product-child28,
+.all-product-child29 {
+  position: absolute;
+  top: 311px;
+  left: 1057px;
+  background-color: #f8f5f5;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 168px;
+  height: 290px;
+}
+.all-product-child25,
+.all-product-child26,
+.all-product-child27,
+.all-product-child28,
+.all-product-child29 {
+  top: 631px;
+}
+.all-product-child26,
+.all-product-child27,
+.all-product-child28,
+.all-product-child29 {
+  top: 311px;
+  left: 1275px;
+}
+.all-product-child27,
+.all-product-child28,
+.all-product-child29 {
+  top: 631px;
+}
+.all-product-child28,
+.all-product-child29 {
+  top: 311px;
+  left: 1503px;
+}
+.all-product-child29 {
+  top: 631px;
+}
+.all-product-child30,
+.all-product-child31 {
+  position: absolute;
+  top: 312px;
+  left: 406px;
+  background-color: #f4f1f1;
+  width: 168px;
+  height: 168px;
+}
+.all-product-child31 {
+  top: 632px;
+}
+.all-product-child32,
+.all-product-child33,
+.all-product-child34,
+.all-product-child35,
+.all-product-child36 {
+  position: absolute;
+  top: 312px;
+  left: 618px;
+  background-color: #f4f1f1;
+  width: 168px;
+  height: 168px;
+}
+.all-product-child33,
+.all-product-child34,
+.all-product-child35,
+.all-product-child36 {
+  top: 632px;
+}
+.all-product-child34,
+.all-product-child35,
+.all-product-child36 {
+  top: 312px;
+  left: 837px;
+}
+.all-product-child35,
+.all-product-child36 {
+  top: 632px;
+}
+.all-product-child36 {
+  top: 312px;
+  left: 1057px;
+}
+.all-product-child37,
+.all-product-child38,
+.all-product-child39,
+.all-product-child40,
+.all-product-child41 {
+  position: absolute;
+  top: 632px;
+  left: 1057px;
+  background-color: #f4f1f1;
+  width: 168px;
+  height: 168px;
+}
+.all-product-child38,
+.all-product-child39,
+.all-product-child40,
+.all-product-child41 {
+  top: 312px;
+  left: 1275px;
+}
+.all-product-child39,
+.all-product-child40,
+.all-product-child41 {
+  top: 632px;
+}
+.all-product-child40,
+.all-product-child41 {
+  top: 312px;
+  left: 1503px;
+}
+.all-product-child41 {
+  top: 632px;
+}
+.liveasy-wellness-calcium12,
+.liveasy-wellness-calcium13 {
+  position: absolute;
+  top: 488px;
+  left: 414px;
+  font-size: 18px;
+  font-family: Dosis;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.liveasy-wellness-calcium13 {
+  top: 808px;
+}
+.liveasy-wellness-calcium14,
+.liveasy-wellness-calcium15,
+.liveasy-wellness-calcium16,
+.liveasy-wellness-calcium17,
+.liveasy-wellness-calcium18 {
+  position: absolute;
+  top: 488px;
+  left: 626px;
+  font-size: 18px;
+  font-family: Dosis;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.liveasy-wellness-calcium15,
+.liveasy-wellness-calcium16,
+.liveasy-wellness-calcium17,
+.liveasy-wellness-calcium18 {
+  top: 808px;
+}
+.liveasy-wellness-calcium16,
+.liveasy-wellness-calcium17,
+.liveasy-wellness-calcium18 {
+  top: 488px;
+  left: 845px;
+}
+.liveasy-wellness-calcium17,
+.liveasy-wellness-calcium18 {
+  top: 808px;
+}
+.liveasy-wellness-calcium18 {
+  top: 488px;
+  left: 1065px;
+}
+.liveasy-wellness-calcium19,
+.liveasy-wellness-calcium20,
+.liveasy-wellness-calcium21,
+.liveasy-wellness-calcium22,
+.liveasy-wellness-calcium23 {
+  position: absolute;
+  top: 808px;
+  left: 1065px;
+  font-size: 18px;
+  font-family: Dosis;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.liveasy-wellness-calcium20,
+.liveasy-wellness-calcium21,
+.liveasy-wellness-calcium22,
+.liveasy-wellness-calcium23 {
+  top: 488px;
+  left: 1283px;
+}
+.liveasy-wellness-calcium21,
+.liveasy-wellness-calcium22,
+.liveasy-wellness-calcium23 {
+  top: 808px;
+}
+.liveasy-wellness-calcium22,
+.liveasy-wellness-calcium23 {
+  top: 488px;
+  left: 1511px;
+}
+.liveasy-wellness-calcium23 {
+  top: 808px;
+}
+.rs32512,
+.rs32513,
+.rs32514,
+.rs32515,
+.rs32516,
+.rs32517,
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  position: absolute;
+  top: 531px;
+  left: 413px;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #e31c1c;
+  display: inline-block;
+  width: 107px;
+  height: 26px;
+}
+.rs32513,
+.rs32514,
+.rs32515,
+.rs32516,
+.rs32517,
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 851px;
+}
+.rs32514,
+.rs32515,
+.rs32516,
+.rs32517,
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 531px;
+  left: 625px;
+}
+.rs32515,
+.rs32516,
+.rs32517,
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 851px;
+}
+.rs32516,
+.rs32517,
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 531px;
+  left: 844px;
+}
+.rs32517,
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 851px;
+}
+.rs32518,
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 531px;
+  left: 1064px;
+}
+.rs32519,
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 851px;
+}
+.rs32520,
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 531px;
+  left: 1282px;
+}
+.rs32521,
+.rs32522,
+.rs32523 {
+  top: 851px;
+}
+.rs32522,
+.rs32523 {
+  top: 531px;
+  left: 1510px;
+}
+.rs32523 {
+  top: 851px;
+}
+.rs65012,
+.rs65013,
+.rs65014,
+.rs65015,
+.rs65016,
+.rs65017,
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  position: absolute;
+  top: 559px;
+  left: 414px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #7c7979;
+  display: inline-block;
+  width: 107px;
+  height: 26px;
+}
+.rs65013,
+.rs65014,
+.rs65015,
+.rs65016,
+.rs65017,
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 879px;
+}
+.rs65014,
+.rs65015,
+.rs65016,
+.rs65017,
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 559px;
+  left: 626px;
+}
+.rs65015,
+.rs65016,
+.rs65017,
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 879px;
+}
+.rs65016,
+.rs65017,
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 559px;
+  left: 845px;
+}
+.rs65017,
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 879px;
+}
+.rs65018,
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 559px;
+  left: 1065px;
+}
+.rs65019,
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 879px;
+}
+.rs65020,
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 559px;
+  left: 1283px;
+}
+.rs65021,
+.rs65022,
+.rs65023 {
+  top: 879px;
+}
+.rs65022,
+.rs65023 {
+  top: 559px;
+  left: 1511px;
+}
+.rs65023 {
+  top: 879px;
+}
+.pngfind-13-icon,
+.pngfind-14-icon,
+.pngfind-15-icon,
+.pngfind-16-icon {
+  position: absolute;
+  top: 320px;
+  left: 428px;
+  width: 118px;
+  height: 158px;
+  object-fit: cover;
+}
+.pngfind-14-icon,
+.pngfind-15-icon,
+.pngfind-16-icon {
+  top: 640px;
+}
+.pngfind-15-icon,
+.pngfind-16-icon {
+  top: 320px;
+  left: 640px;
+}
+.pngfind-16-icon {
+  top: 640px;
+}
+.pngfind-17-icon,
+.pngfind-18-icon,
+.pngfind-19-icon,
+.pngfind-20-icon {
+  position: absolute;
+  top: 320px;
+  left: 859px;
+  width: 118px;
+  height: 158px;
+  object-fit: cover;
+}
+.pngfind-18-icon,
+.pngfind-19-icon,
+.pngfind-20-icon {
+  top: 640px;
+}
+.pngfind-19-icon,
+.pngfind-20-icon {
+  top: 320px;
+  left: 1079px;
+}
+.pngfind-20-icon {
+  top: 640px;
+}
+.pngfind-21-icon,
+.pngfind-22-icon,
+.pngfind-23-icon,
+.pngfind-24-icon {
+  position: absolute;
+  top: 320px;
+  left: 1297px;
+  width: 118px;
+  height: 158px;
+  object-fit: cover;
+}
+.pngfind-22-icon,
+.pngfind-23-icon,
+.pngfind-24-icon {
+  top: 640px;
+}
+.pngfind-23-icon,
+.pngfind-24-icon {
+  top: 320px;
+  left: 1525px;
+}
+.pngfind-24-icon {
+  top: 640px;
+}
+.all-product-child42,
+.all-product-child43,
+.all-product-child44,
+.all-product-child45,
+.all-product-child46,
+.all-product-child47 {
+  position: absolute;
+  top: 570.5px;
+  left: 414.4px;
+  border-top: 1px solid #615f5f;
+  box-sizing: border-box;
+  width: 60.1px;
+  height: 1px;
+}
+.all-product-child43,
+.all-product-child44,
+.all-product-child45,
+.all-product-child46,
+.all-product-child47 {
+  top: 890.5px;
+}
+.all-product-child44,
+.all-product-child45,
+.all-product-child46,
+.all-product-child47 {
+  top: 570.5px;
+  left: 626.4px;
+}
+.all-product-child45,
+.all-product-child46,
+.all-product-child47 {
+  top: 890.5px;
+}
+.all-product-child46,
+.all-product-child47 {
+  top: 570.5px;
+  left: 845.4px;
+}
+.all-product-child47 {
+  top: 890.5px;
+}
+.all-product-child48,
+.all-product-child49,
+.all-product-child50,
+.all-product-child51,
+.all-product-child52,
+.all-product-child53 {
+  position: absolute;
+  top: 570.5px;
+  left: 1065.4px;
+  border-top: 1px solid #615f5f;
+  box-sizing: border-box;
+  width: 60.1px;
+  height: 1px;
+}
+.all-product-child49,
+.all-product-child50,
+.all-product-child51,
+.all-product-child52,
+.all-product-child53 {
+  top: 890.5px;
+}
+.all-product-child50,
+.all-product-child51,
+.all-product-child52,
+.all-product-child53 {
+  top: 570.5px;
+  left: 1283.4px;
+}
+.all-product-child51,
+.all-product-child52,
+.all-product-child53 {
+  top: 890.5px;
+}
+.all-product-child52,
+.all-product-child53 {
+  top: 570.5px;
+  left: 1511.4px;
+}
+.all-product-child53 {
+  top: 890.5px;
+}
+.div24,
+.div25,
+.div26,
+.div27 {
+  position: absolute;
+  top: 559px;
+  left: 481px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #524e4e;
+  display: inline-block;
+  width: 47px;
+  height: 29px;
+}
+.div25,
+.div26,
+.div27 {
+  top: 879px;
+}
+.div26,
+.div27 {
+  top: 559px;
+  left: 693px;
+}
+.div27 {
+  top: 879px;
+}
+.div28,
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  position: absolute;
+  top: 559px;
+  left: 912px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #524e4e;
+  display: inline-block;
+  width: 47px;
+  height: 29px;
+}
+.div29,
+.div30,
+.div31,
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 879px;
+}
+.div30,
+.div31,
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 559px;
+  left: 1132px;
+}
+.div31,
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 879px;
+}
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 559px;
+  left: 1350px;
+}
+.div33,
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 879px;
+}
+.div34,
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 559px;
+  left: 1578px;
+}
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 879px;
+}
+.div36,
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 578px;
+  left: 486px;
+  font-size: 12px;
+  color: #8d8b8b;
+}
+.div37,
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 898px;
+}
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 578px;
+  left: 698px;
+}
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 898px;
+}
+.div40,
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 578px;
+  left: 917px;
+}
+.div41,
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 898px;
+}
+.div42,
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 578px;
+  left: 1137px;
+}
+.div43,
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 898px;
+}
+.div44,
+.div45,
+.div46,
+.div47 {
+  top: 578px;
+  left: 1355px;
+}
+.div45,
+.div46,
+.div47 {
+  top: 898px;
+}
+.div46,
+.div47 {
+  top: 578px;
+  left: 1583px;
+}
+.div47 {
+  top: 898px;
+}
+.all-product-child54,
+.all-product-child55,
+.all-product-child56,
+.all-product-child57 {
+  position: absolute;
+  top: 579px;
+  left: 414px;
+  width: 68px;
+  height: 13px;
+  object-fit: cover;
+}
+.all-product-child55,
+.all-product-child56,
+.all-product-child57 {
+  top: 899px;
+}
+.all-product-child56,
+.all-product-child57 {
+  top: 579px;
+  left: 626px;
+}
+.all-product-child57 {
+  top: 899px;
+}
+.all-product-child58,
+.all-product-child59,
+.all-product-child60,
+.all-product-child61 {
+  position: absolute;
+  top: 579px;
+  left: 845px;
+  width: 68px;
+  height: 13px;
+  object-fit: cover;
+}
+.all-product-child59,
+.all-product-child60,
+.all-product-child61 {
+  top: 899px;
+}
+.all-product-child60,
+.all-product-child61 {
+  top: 579px;
+  left: 1065px;
+}
+.all-product-child61 {
+  top: 899px;
+}
+.all-product-child62,
+.all-product-child63,
+.all-product-child64,
+.all-product-child65 {
+  position: absolute;
+  top: 579px;
+  left: 1283px;
+  width: 68px;
+  height: 13px;
+  object-fit: cover;
+}
+.all-product-child63,
+.all-product-child64,
+.all-product-child65 {
+  top: 899px;
+}
+.all-product-child64,
+.all-product-child65 {
+  top: 579px;
+  left: 1511px;
+}
+.all-product-child65 {
+  top: 899px;
+}
+.all-product1 {
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  font-family: Commissioner;
+}
+
+#s1{
+  color: black;
+}

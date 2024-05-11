@@ -1,0 +1,357 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.product-child,
+.product-item {
+  position: absolute;
+  left: 0;
+  width: 1726px;
+}
+.product-child {
+  top: 0;
+  background: linear-gradient(180deg, #0360d9, #0360d9 0.01%, #1b9be2);
+  height: 166px;
+}
+.product-item {
+  top: 168px;
+  background-color: #f7f5f5;
+  height: 38px;
+}
+.home-search {
+  position: absolute;
+  top: 175px;
+  left: 196px;
+  font-size: 20px;
+  color: #9b9b9b;
+  display: inline-block;
+  width: 545px;
+  height: 23px;
+}
+.product-inner {
+  position: absolute;
+  top: 240px;
+  left: calc(50% - 668px);
+  background-color: #f8f4f4;
+  width: 1335px;
+  height: 722px;
+}
+.product-child1,
+.product-child2 {
+  position: absolute;
+  top: 277px;
+  left: 246px;
+  border-radius: 15px;
+  width: 30px;
+  height: 38px;
+  object-fit: cover;
+}
+.product-child2 {
+  top: 441px;
+  left: 247px;
+}
+.pngfind-19-icon1,
+.product-child3,
+.product-child4 {
+  position: absolute;
+  top: 325px;
+  left: 246px;
+  width: 30px;
+  height: 40px;
+  object-fit: cover;
+}
+.pngfind-19-icon1,
+.product-child4 {
+  top: 374px;
+  left: 247px;
+}
+.pngfind-19-icon1 {
+  top: 281px;
+  left: 344px;
+  width: 315px;
+  height: 416px;
+}
+.product-child5 {
+  position: absolute;
+  top: 435px;
+  left: 239px;
+  border-radius: 10px;
+  background-color: rgba(12, 11, 11, 0.51);
+  width: 45px;
+  height: 46px;
+}
+.liveasy-wellness-calcium-container {
+  position: absolute;
+  top: 277px;
+  left: 711px;
+  font-size: 36px;
+  display: inline-block;
+  width: 766px;
+  height: 114px;
+}
+.icon-media-play {
+  position: absolute;
+  height: 2.57%;
+  width: 1.37%;
+  top: 39.78%;
+  right: 84.11%;
+  bottom: 57.65%;
+  left: 14.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pngfind-20-icon1 {
+  position: absolute;
+  top: 374px;
+  left: 711px;
+  width: 127px;
+  height: 24.1px;
+  object-fit: cover;
+}
+.ratings {
+  top: 377px;
+  left: 854px;
+  font-size: 20px;
+  color: #6d6c6c;
+  width: 134px;
+  height: 37px;
+}
+.ratings,
+.rs32524,
+.rs65024 {
+  position: absolute;
+  display: inline-block;
+}
+.rs32524 {
+  top: 410px;
+  left: 712px;
+  font-size: 64px;
+  font-weight: 300;
+  color: #fe2204;
+  width: 209px;
+  height: 67px;
+}
+.rs65024 {
+  top: 487px;
+  left: 717px;
+  font-family: "Istok Web";
+  color: #a8a2a2;
+  width: 93px;
+  height: 27px;
+}
+.product-child6 {
+  position: absolute;
+  top: 503px;
+  left: 716.5px;
+  border-top: 1px solid black;
+  box-sizing: border-box;
+  width: 85px;
+  height: 1px;
+  opacity: 0.4;
+}
+.off,
+.quantity {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.off {
+  top: 487px;
+  left: 810px;
+  font-family: "Inria Serif";
+  width: 112px;
+  height: 22px;
+}
+.quantity {
+  top: 580px;
+  left: 717px;
+  color: #545252;
+  width: 119px;
+  height: 33px;
+}
+.product-child7 {
+  position: absolute;
+  top: 581px;
+  left: 841px;
+  border-radius: 30px;
+  background-color: #f0ecec;
+  width: 202px;
+  height: 31px;
+}
+.product-child8 {
+  position: absolute;
+  top: 583px;
+  left: 905px;
+  background-color: #fffdfd;
+  width: 71px;
+  height: 27px;
+}
+.div48 {
+  position: absolute;
+  top: 585px;
+  left: 935px;
+  font-size: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 23px;
+  height: 15px;
+}
+.product-child10,
+.product-child9 {
+  position: absolute;
+  top: 660px;
+  border-radius: 20px;
+  width: 331px;
+  height: 54px;
+}
+.product-child9 {
+  left: 716px;
+  background-color: #0a92de;
+  cursor: pointer;
+}
+.product-child10 {
+  left: 1091px;
+  background-color: #e07008;
+}
+.add-to-cart,
+.buy-now {
+  position: absolute;
+  top: 672px;
+  left: 827px;
+  color: #fffafa;
+  display: inline-block;
+  width: 147px;
+  height: 37px;
+}
+.add-to-cart {
+  left: 1192px;
+}
+.product-child11 {
+  position: absolute;
+  top: 790px;
+  left: calc(50% - 563px);
+  background-color: #fffbfb;
+  width: 1126px;
+  height: 145px;
+}
+.product-child12 {
+  position: absolute;
+  top: 66px;
+  left: 21px;
+  border-radius: 40px;
+  background-color: #fffdfd;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 69px;
+  height: 38px;
+  cursor: pointer;
+}
+.product-child13 {
+  position: absolute;
+  top: 84px;
+  left: 37px;
+  max-height: 100%;
+  width: 36px;
+  object-fit: contain;
+}
+.icon-heart,
+.icon-share {
+  position: absolute;
+  height: 1.67%;
+  width: 1.16%;
+  top: 15.89%;
+  right: 16.84%;
+  bottom: 82.44%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-share {
+  height: 1.66%;
+  width: 1.39%;
+  top: 15.8%;
+  right: 22.51%;
+  bottom: 82.54%;
+  left: 76.1%;
+}
+.sold-by {
+  top: 803px;
+  left: 359px;
+  width: 176px;
+  height: 34px;
+}
+.liveasy-company,
+.services,
+.sold-by {
+  position: absolute;
+  display: inline-block;
+}
+.liveasy-company {
+  top: 846px;
+  left: 359px;
+  font-size: 33px;
+  font-weight: 500;
+  width: 294px;
+  height: 51px;
+}
+.services {
+  top: 807px;
+  left: 700px;
+  width: 168px;
+  height: 41px;
+}
+.days-return {
+  margin: 0;
+}
+.country-of-origin,
+.days-return-container,
+.expires-on-or,
+.product-details {
+  position: absolute;
+  top: 854px;
+  left: 700px;
+  font-size: 20px;
+  display: inline-block;
+  width: 240px;
+  height: 43px;
+}
+.country-of-origin,
+.expires-on-or,
+.product-details {
+  top: 812px;
+  left: 1032px;
+  width: 304px;
+  height: 22px;
+}
+.country-of-origin,
+.expires-on-or {
+  top: 843px;
+}
+.country-of-origin {
+  top: 874px;
+}
+.icbaseline-minus-icon,
+.icbaseline-plus-icon {
+  position: absolute;
+  top: 585px;
+  left: 997px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icbaseline-minus-icon {
+  top: 584px;
+  left: 864px;
+}
+.product {
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: black;
+  font-family: Inter;
+}

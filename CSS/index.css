@@ -1,0 +1,1299 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.home-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #0360d9, #0360d9 0.01%, #1b9be2);
+  width: 1728px;
+  height: 166px;
+}
+.all-product,
+.cart,
+.login,
+.wishlist {
+  position: absolute;
+  top: 67px;
+  left: 1601px;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #fff9f9;
+  display: inline-block;
+  width: 64px;
+  height: 23px;
+  text-shadow: 0 4px 6px rgba(0, 0, 0, 0.78);
+}
+.all-product,
+.cart,
+.wishlist {
+  left: 1468px;
+  width: 52px;
+  cursor: pointer;
+}
+.all-product,
+.wishlist {
+  top: 66px;
+  left: 1293px;
+  width: 94px;
+}
+.all-product {
+  top: 67px;
+  left: 1077px;
+  width: 137px;
+}
+.home-page-item {
+  position: absolute;
+  top: 262px;
+  left: 13px;
+  background-color: #fffefe;
+  width: 1728px;
+  height: 434px;
+}
+.home-page-inner {
+  position: absolute;
+  top: 597px;
+  left: 566px;
+  border-radius: 30px;
+  background: linear-gradient(180deg, #01667d, #00171d);
+  width: 119px;
+  height: 24px;
+}
+.shop-now {
+  position: absolute;
+  top: 595px;
+  left: 581px;
+  font-size: 20px;
+  font-family: "Doppio One";
+  color: white;
+  display: inline-block;
+  width: 106px;
+  height: 20px;
+}
+.best-selling-products,
+.categories {
+  position: absolute;
+  top: 735px;
+  left: 252px;
+  font-size: 36px;
+  letter-spacing: 0.03em;
+  font-family: Dosis;
+  display: inline-block;
+  width: 156px;
+  height: 40px;
+}
+.best-selling-products {
+  top: 1113px;
+  left: 247px;
+  width: 327px;
+}
+.line-div {
+  top: 792.9px;
+  left: calc(50% - 621.1px);
+  border-top: 0.2px solid black;
+  width: 1272.2px;
+  height: 0.2px;
+}
+.home-page-child1,
+.line-div,
+.rectangle-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.home-page-child1 {
+  top: 1166.9px;
+  left: calc(50% - 623.1px);
+  border-top: 0.2px solid black;
+  width: 1272.2px;
+  height: 0.2px;
+}
+.rectangle-div {
+  top: 816px;
+  left: 244px;
+  border-radius: 15px;
+  background-color: #fbf7f7;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0.3px solid black;
+  width: 174px;
+  height: 175px;
+}
+.vitamins {
+  position: absolute;
+  top: 944px;
+  left: 280px;
+  font-size: 24px;
+  letter-spacing: 0.03em;
+  font-weight: 200;
+  font-family: "Encode Sans SC";
+  display: inline-block;
+  width: 113px;
+  height: 30px;
+}
+.home-page-child2,
+.home-page-child3,
+.home-page-child4,
+.home-page-child5,
+.home-page-child6 {
+  position: absolute;
+  top: 816px;
+  left: 463px;
+  border-radius: 15px;
+  background-color: #fbf7f7;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0.3px solid black;
+  box-sizing: border-box;
+  width: 174px;
+  height: 175px;
+}
+.home-page-child3,
+.home-page-child4,
+.home-page-child5,
+.home-page-child6 {
+  left: 682px;
+}
+.home-page-child4,
+.home-page-child5,
+.home-page-child6 {
+  left: 901px;
+}
+.home-page-child5,
+.home-page-child6 {
+  left: 1120px;
+}
+.home-page-child6 {
+  left: 1339px;
+}
+.home-page-child7,
+.rectangle-icon {
+  position: absolute;
+  top: 835px;
+  left: 278px;
+  width: 101px;
+  height: 101px;
+  object-fit: cover;
+}
+.home-page-child7 {
+  left: 497px;
+}
+.home-page-child10,
+.home-page-child11,
+.home-page-child8,
+.home-page-child9 {
+  position: absolute;
+  top: 835px;
+  left: 716px;
+  width: 101px;
+  height: 101px;
+  object-fit: cover;
+}
+.home-page-child10,
+.home-page-child11,
+.home-page-child9 {
+  left: 935px;
+}
+.home-page-child10,
+.home-page-child11 {
+  left: 1154px;
+}
+.home-page-child11 {
+  left: 1373px;
+}
+.ayurvedic,
+.covid-care,
+.diabetic-care,
+.elderly-care,
+.skin-care {
+  position: absolute;
+  font-size: 24px;
+  letter-spacing: 0.03em;
+  font-weight: 200;
+  font-family: "Encode Sans SC";
+}
+.skin-care {
+  top: 944px;
+  left: 496px;
+  display: inline-block;
+  width: 113px;
+  height: 30px;
+}
+.ayurvedic,
+.covid-care,
+.diabetic-care,
+.elderly-care {
+  top: 949px;
+  left: 692px;
+}
+.ayurvedic,
+.covid-care,
+.diabetic-care {
+  top: 950px;
+  left: 934px;
+  display: inline-block;
+  width: 124px;
+  height: 25px;
+}
+.covid-care,
+.diabetic-care {
+  left: 1140px;
+  width: 134px;
+  height: 29px;
+}
+.diabetic-care {
+  left: 1350px;
+  width: 158px;
+  height: 25px;
+}
+.home-page-child12,
+.home-page-child13,
+.home-page-child14,
+.home-page-child15 {
+  position: absolute;
+  top: 1203px;
+  left: 246px;
+  background-color: #f8f5f5;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 168px;
+  height: 290px;
+}
+.home-page-child13,
+.home-page-child14,
+.home-page-child15 {
+  top: 1523px;
+}
+.home-page-child14,
+.home-page-child15 {
+  top: 1203px;
+  left: 458px;
+}
+.home-page-child15 {
+  top: 1523px;
+}
+.home-page-child16,
+.home-page-child17,
+.home-page-child18,
+.home-page-child19,
+.home-page-child20,
+.home-page-child21,
+.home-page-child22,
+.home-page-child23 {
+  position: absolute;
+  top: 1203px;
+  left: 677px;
+  background-color: #f8f5f5;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 168px;
+  height: 290px;
+}
+.home-page-child17,
+.home-page-child18,
+.home-page-child19,
+.home-page-child20,
+.home-page-child21,
+.home-page-child22,
+.home-page-child23 {
+  top: 1523px;
+}
+.home-page-child18,
+.home-page-child19,
+.home-page-child20,
+.home-page-child21,
+.home-page-child22,
+.home-page-child23 {
+  top: 1203px;
+  left: 897px;
+}
+.home-page-child19,
+.home-page-child20,
+.home-page-child21,
+.home-page-child22,
+.home-page-child23 {
+  top: 1523px;
+}
+.home-page-child20,
+.home-page-child21,
+.home-page-child22,
+.home-page-child23 {
+  top: 1203px;
+  left: 1115px;
+}
+.home-page-child21,
+.home-page-child22,
+.home-page-child23 {
+  top: 1523px;
+}
+.home-page-child22,
+.home-page-child23 {
+  top: 1203px;
+  left: 1343px;
+}
+.home-page-child23 {
+  top: 1523px;
+}
+.home-page-child24,
+.home-page-child25,
+.home-page-child26,
+.home-page-child27,
+.home-page-child28,
+.home-page-child29 {
+  position: absolute;
+  top: 1204px;
+  left: 246px;
+  background-color: #f4f1f1;
+  width: 168px;
+  height: 168px;
+}
+.home-page-child25,
+.home-page-child26,
+.home-page-child27,
+.home-page-child28,
+.home-page-child29 {
+  top: 1524px;
+}
+.home-page-child26,
+.home-page-child27,
+.home-page-child28,
+.home-page-child29 {
+  top: 1204px;
+  left: 458px;
+}
+.home-page-child27,
+.home-page-child28,
+.home-page-child29 {
+  top: 1524px;
+}
+.home-page-child28,
+.home-page-child29 {
+  top: 1204px;
+  left: 677px;
+}
+.home-page-child29 {
+  top: 1524px;
+}
+.home-page-child30,
+.home-page-child31,
+.home-page-child32,
+.home-page-child33,
+.home-page-child34,
+.home-page-child35 {
+  position: absolute;
+  top: 1204px;
+  left: 897px;
+  background-color: #f4f1f1;
+  width: 168px;
+  height: 168px;
+}
+.home-page-child31,
+.home-page-child32,
+.home-page-child33,
+.home-page-child34,
+.home-page-child35 {
+  top: 1524px;
+}
+.home-page-child32,
+.home-page-child33,
+.home-page-child34,
+.home-page-child35 {
+  top: 1204px;
+  left: 1115px;
+}
+.home-page-child33,
+.home-page-child34,
+.home-page-child35 {
+  top: 1524px;
+}
+.home-page-child34,
+.home-page-child35 {
+  top: 1204px;
+  left: 1343px;
+}
+.home-page-child35 {
+  top: 1524px;
+}
+.liveasy-wellness-calcium,
+.liveasy-wellness-calcium1 {
+  position: absolute;
+  top: 1380px;
+  left: 254px;
+  font-size: 18px;
+  font-family: Dosis;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.liveasy-wellness-calcium1 {
+  top: 1700px;
+}
+.liveasy-wellness-calcium2,
+.liveasy-wellness-calcium3,
+.liveasy-wellness-calcium4,
+.liveasy-wellness-calcium5,
+.liveasy-wellness-calcium6 {
+  position: absolute;
+  top: 1380px;
+  left: 466px;
+  font-size: 18px;
+  font-family: Dosis;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.liveasy-wellness-calcium3,
+.liveasy-wellness-calcium4,
+.liveasy-wellness-calcium5,
+.liveasy-wellness-calcium6 {
+  top: 1700px;
+}
+.liveasy-wellness-calcium4,
+.liveasy-wellness-calcium5,
+.liveasy-wellness-calcium6 {
+  top: 1380px;
+  left: 685px;
+}
+.liveasy-wellness-calcium5,
+.liveasy-wellness-calcium6 {
+  top: 1700px;
+}
+.liveasy-wellness-calcium6 {
+  top: 1380px;
+  left: 905px;
+}
+.liveasy-wellness-calcium10,
+.liveasy-wellness-calcium11,
+.liveasy-wellness-calcium7,
+.liveasy-wellness-calcium8,
+.liveasy-wellness-calcium9 {
+  position: absolute;
+  top: 1700px;
+  left: 905px;
+  font-size: 18px;
+  font-family: Dosis;
+  display: inline-block;
+  width: 155px;
+  height: 23px;
+}
+.liveasy-wellness-calcium10,
+.liveasy-wellness-calcium11,
+.liveasy-wellness-calcium8,
+.liveasy-wellness-calcium9 {
+  top: 1380px;
+  left: 1123px;
+}
+.liveasy-wellness-calcium10,
+.liveasy-wellness-calcium11,
+.liveasy-wellness-calcium9 {
+  top: 1700px;
+}
+.liveasy-wellness-calcium10,
+.liveasy-wellness-calcium11 {
+  top: 1380px;
+  left: 1351px;
+}
+.liveasy-wellness-calcium11 {
+  top: 1700px;
+}
+.rs325,
+.rs3251,
+.rs32510,
+.rs32511,
+.rs3252,
+.rs3253,
+.rs3254,
+.rs3255,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  position: absolute;
+  top: 1423px;
+  left: 253px;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #e31c1c;
+  display: inline-block;
+  width: 107px;
+  height: 26px;
+}
+.rs3251,
+.rs32510,
+.rs32511,
+.rs3252,
+.rs3253,
+.rs3254,
+.rs3255,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1743px;
+}
+.rs32510,
+.rs32511,
+.rs3252,
+.rs3253,
+.rs3254,
+.rs3255,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1423px;
+  left: 465px;
+}
+.rs32510,
+.rs32511,
+.rs3253,
+.rs3254,
+.rs3255,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1743px;
+}
+.rs32510,
+.rs32511,
+.rs3254,
+.rs3255,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1423px;
+  left: 684px;
+}
+.rs32510,
+.rs32511,
+.rs3255,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1743px;
+}
+.rs32510,
+.rs32511,
+.rs3256,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1423px;
+  left: 904px;
+}
+.rs32510,
+.rs32511,
+.rs3257,
+.rs3258,
+.rs3259 {
+  top: 1743px;
+}
+.rs32510,
+.rs32511,
+.rs3258,
+.rs3259 {
+  top: 1423px;
+  left: 1122px;
+}
+.rs32510,
+.rs32511,
+.rs3259 {
+  top: 1743px;
+}
+.rs32510,
+.rs32511 {
+  top: 1423px;
+  left: 1350px;
+}
+.rs32511 {
+  top: 1743px;
+}
+.rs650,
+.rs6501,
+.rs65010,
+.rs65011,
+.rs6502,
+.rs6503,
+.rs6504,
+.rs6505,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  position: absolute;
+  top: 1451px;
+  left: 254px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #7c7979;
+  display: inline-block;
+  width: 107px;
+  height: 26px;
+}
+.rs6501,
+.rs65010,
+.rs65011,
+.rs6502,
+.rs6503,
+.rs6504,
+.rs6505,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1771px;
+}
+.rs65010,
+.rs65011,
+.rs6502,
+.rs6503,
+.rs6504,
+.rs6505,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1451px;
+  left: 466px;
+}
+.rs65010,
+.rs65011,
+.rs6503,
+.rs6504,
+.rs6505,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1771px;
+}
+.rs65010,
+.rs65011,
+.rs6504,
+.rs6505,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1451px;
+  left: 685px;
+}
+.rs65010,
+.rs65011,
+.rs6505,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1771px;
+}
+.rs65010,
+.rs65011,
+.rs6506,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1451px;
+  left: 905px;
+}
+.rs65010,
+.rs65011,
+.rs6507,
+.rs6508,
+.rs6509 {
+  top: 1771px;
+}
+.rs65010,
+.rs65011,
+.rs6508,
+.rs6509 {
+  top: 1451px;
+  left: 1123px;
+}
+.rs65010,
+.rs65011,
+.rs6509 {
+  top: 1771px;
+}
+.rs65010,
+.rs65011 {
+  top: 1451px;
+  left: 1351px;
+}
+.rs65011 {
+  top: 1771px;
+}
+.pngfind-1-icon,
+.pngfind-2-icon,
+.pngfind-7-icon,
+.pngfind-8-icon {
+  position: absolute;
+  left: 268px;
+  width: 118px;
+  height: 158px;
+  object-fit: cover;
+}
+.pngfind-1-icon {
+  top: 1212px;
+  cursor: pointer;
+}
+.pngfind-2-icon,
+.pngfind-7-icon,
+.pngfind-8-icon {
+  top: 1532px;
+}
+.pngfind-2-icon,
+.pngfind-8-icon {
+  top: 1212px;
+  left: 480px;
+}
+.pngfind-8-icon {
+  top: 1532px;
+}
+.pngfind-10-icon,
+.pngfind-3-icon,
+.pngfind-4-icon,
+.pngfind-9-icon {
+  position: absolute;
+  top: 1212px;
+  left: 699px;
+  width: 118px;
+  height: 158px;
+  object-fit: cover;
+}
+.pngfind-10-icon,
+.pngfind-4-icon,
+.pngfind-9-icon {
+  top: 1532px;
+}
+.pngfind-10-icon,
+.pngfind-4-icon {
+  top: 1212px;
+  left: 919px;
+}
+.pngfind-10-icon {
+  top: 1532px;
+}
+.pngfind-11-icon,
+.pngfind-12-icon,
+.pngfind-5-icon,
+.pngfind-6-icon {
+  position: absolute;
+  top: 1212px;
+  left: 1137px;
+  width: 118px;
+  height: 158px;
+  object-fit: cover;
+}
+.pngfind-11-icon,
+.pngfind-12-icon,
+.pngfind-6-icon {
+  top: 1532px;
+}
+.pngfind-12-icon,
+.pngfind-6-icon {
+  top: 1212px;
+  left: 1365px;
+}
+.pngfind-12-icon {
+  top: 1532px;
+}
+.home-page-child36,
+.home-page-child37,
+.home-page-child38,
+.home-page-child39,
+.home-page-child40,
+.home-page-child41 {
+  position: absolute;
+  top: 1462.5px;
+  left: 254.4px;
+  border-top: 1px solid #615f5f;
+  box-sizing: border-box;
+  width: 60.1px;
+  height: 1px;
+}
+.home-page-child37,
+.home-page-child38,
+.home-page-child39,
+.home-page-child40,
+.home-page-child41 {
+  top: 1782.5px;
+}
+.home-page-child38,
+.home-page-child39,
+.home-page-child40,
+.home-page-child41 {
+  top: 1462.5px;
+  left: 466.4px;
+}
+.home-page-child39,
+.home-page-child40,
+.home-page-child41 {
+  top: 1782.5px;
+}
+.home-page-child40,
+.home-page-child41 {
+  top: 1462.5px;
+  left: 685.4px;
+}
+.home-page-child41 {
+  top: 1782.5px;
+}
+.home-page-child42,
+.home-page-child43,
+.home-page-child44,
+.home-page-child45,
+.home-page-child46,
+.home-page-child47 {
+  position: absolute;
+  top: 1462.5px;
+  left: 905.4px;
+  border-top: 1px solid #615f5f;
+  box-sizing: border-box;
+  width: 60.1px;
+  height: 1px;
+}
+.home-page-child43,
+.home-page-child44,
+.home-page-child45,
+.home-page-child46,
+.home-page-child47 {
+  top: 1782.5px;
+}
+.home-page-child44,
+.home-page-child45,
+.home-page-child46,
+.home-page-child47 {
+  top: 1462.5px;
+  left: 1123.4px;
+}
+.home-page-child45,
+.home-page-child46,
+.home-page-child47 {
+  top: 1782.5px;
+}
+.home-page-child46,
+.home-page-child47 {
+  top: 1462.5px;
+  left: 1351.4px;
+}
+.home-page-child47 {
+  top: 1782.5px;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 1451px;
+  left: 321px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #524e4e;
+  display: inline-block;
+  width: 47px;
+  height: 29px;
+}
+.div1,
+.div2,
+.div3 {
+  top: 1771px;
+}
+.div2,
+.div3 {
+  top: 1451px;
+  left: 533px;
+}
+.div3 {
+  top: 1771px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 1451px;
+  left: 752px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  color: #524e4e;
+  display: inline-block;
+  width: 47px;
+  height: 29px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 1771px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 1451px;
+  left: 972px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div7,
+.div8,
+.div9 {
+  top: 1771px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div8,
+.div9 {
+  top: 1451px;
+  left: 1190px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div9 {
+  top: 1771px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1451px;
+  left: 1418px;
+}
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1771px;
+}
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1470px;
+  left: 326px;
+  font-size: 12px;
+  color: #8d8b8b;
+}
+.div13,
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1790px;
+}
+.div14,
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1470px;
+  left: 538px;
+}
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1790px;
+}
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1470px;
+  left: 757px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1790px;
+}
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1470px;
+  left: 977px;
+}
+.div19,
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1790px;
+}
+.div20,
+.div21,
+.div22,
+.div23 {
+  top: 1470px;
+  left: 1195px;
+}
+.div21,
+.div22,
+.div23 {
+  top: 1790px;
+}
+.div22,
+.div23 {
+  top: 1470px;
+  left: 1423px;
+}
+.div23 {
+  top: 1790px;
+}
+.home-page-child48,
+.home-page-child49,
+.home-page-child50,
+.home-page-child51 {
+  position: absolute;
+  top: 1471px;
+  left: 254px;
+  width: 68px;
+  height: 13px;
+  object-fit: cover;
+}
+.home-page-child49,
+.home-page-child50,
+.home-page-child51 {
+  top: 1791px;
+}
+.home-page-child50,
+.home-page-child51 {
+  top: 1471px;
+  left: 466px;
+}
+.home-page-child51 {
+  top: 1791px;
+}
+.home-page-child52,
+.home-page-child53,
+.home-page-child54,
+.home-page-child55 {
+  position: absolute;
+  top: 1471px;
+  left: 685px;
+  width: 68px;
+  height: 13px;
+  object-fit: cover;
+}
+.home-page-child53,
+.home-page-child54,
+.home-page-child55 {
+  top: 1791px;
+}
+.home-page-child54,
+.home-page-child55 {
+  top: 1471px;
+  left: 905px;
+}
+.home-page-child55 {
+  top: 1791px;
+}
+.home-page-child56,
+.home-page-child57,
+.home-page-child58,
+.home-page-child59 {
+  position: absolute;
+  top: 1471px;
+  left: 1123px;
+  width: 68px;
+  height: 13px;
+  object-fit: cover;
+}
+.home-page-child57,
+.home-page-child58,
+.home-page-child59 {
+  top: 1791px;
+}
+.home-page-child58,
+.home-page-child59 {
+  top: 1471px;
+  left: 1351px;
+}
+.home-page-child59 {
+  top: 1791px;
+}
+.home-page-child60 {
+  position: absolute;
+  top: 1878px;
+  left: 677px;
+  background-color: transparent;
+  border: 1.6px solid #ef1c1c;
+  box-sizing: border-box;
+  width: 388px;
+  height: 48px;
+}
+.show-more {
+  position: absolute;
+  top: 1892px;
+  left: calc(50% - 71px);
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  line-height: 113.8%;
+  font-family: Commissioner;
+  color: #d31414;
+  display: inline-block;
+  width: 146px;
+  height: 30px;
+}
+.home-page-child61 {
+  position: absolute;
+  top: 262px;
+  left: 235px;
+  border-radius: 30px;
+  width: 1293px;
+  height: 436px;
+  object-fit: cover;
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 2059px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  font-family: Commissioner;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
